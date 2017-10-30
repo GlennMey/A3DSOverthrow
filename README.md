@@ -2,8 +2,12 @@
 Arma 3 Dedicated server Overthrow Template (BAT)
 I saw really few Overthrow servers, so I thought i'd add a template for server owners, making it easier and quicker to setup your Overthrow server. These batch scripts doesn't include any restart script.
 
+
+
 Installation: Install ArmA 3 Dedicated server from either your Steam client, or SteamCMD.
 Copy "Starters" and "Overthrow" in root of the Arma 3 server folder. (Where arma3server_x64.exe is located)
+
+
 
 Default settings:
 Server name: Overthrow version v0.7.5.3 hosted by Github; change this in Overthrow/Server.cfg
