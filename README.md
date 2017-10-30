@@ -10,11 +10,17 @@ Copy "Starters" and "Overthrow" in root of the Arma 3 server folder. (Where arma
 
 
 Default settings:
+
 Server name: Overthrow version v0.7.5.3 hosted by Github; change this in Overthrow/Server.cfg
+
 Admin login password #login : !123
+
 BattlEye RCON password: !123 (Overthrow\BattlEye)
+
 Difficulty setting: Overthrow recomended, taken from their wiki page. http://wiki.armaoverthrow.com/wiki/How_to_run_a_dedicated_server
 
 
 
 I have included batch scripts for using HC's on another computer/server. Write down your #IP in the folder (Starters/Remote HC/HC#.bat)
+
+TO BE UPDATED!
