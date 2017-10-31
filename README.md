@@ -20,7 +20,7 @@ I saw really few Overthrow servers, so I thought i'd add a template for server o
 
 # Default settings and editing.
 
-Server name: Overthrow version v0.7.5.3 hosted by Github; change this in Overthrow/Server.cfg
+Server name: Overthrow version v0.7.5.3 hosted by Github; change this in (Overthrow/Server.cfg)
 
 Admin login password #login : !123
 
