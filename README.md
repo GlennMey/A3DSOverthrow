@@ -53,4 +53,6 @@ I have included batch scripts for using HC's on another computer/server. Write d
 # Bonus
 [Songs to Overthrow to](https://www.youtube.com/playlist?list=PLUrzXEa-EVEfOuskTrGAqQK3UUpoUDgrJ)
 
+[Official Wiki](http://wiki.armaoverthrow.com)
+
 [Official Discord](https://discord.gg/w3JDQnX)
