@@ -2,7 +2,7 @@
 
 What is this?
 
-Arma 3 Dedicated server Overthrow Template (BAT)
+Arma 3 Dedicated server Overthrow Template (Batch)
 Why make something so simple, well actually to kind of test Github functonality and help out some Server Owners hopefully.
 
 I saw really few Overthrow servers, so I thought i'd add a template for server owners, making it easier and quicker to setup your Overthrow server. These batch scripts doesn't include any restart script. [BEC](http://ibattle.org/) does this. (Not included)
@@ -33,9 +33,9 @@ Dedicated HC (Multiple dedicated HC PC's)
 
 
 
-# Default settings and editing.
+# Default settings and editing
 
-Server name: Overthrow version v0.7.5.3 hosted by Github; change this in (Overthrow/Server.cfg)
+Server name: `Overthrow version v0.7.5.3 hosted by Github;` change this in (Overthrow/Server.cfg)
 
 Remember to add your IP's for your dedicated HC machines if needed (This is not needed for if you are using the same machine for both server and HC's.)
 
@@ -46,3 +46,11 @@ BattlEye RCON password: !123 (Overthrow\BattlEye\BEServer_x64.cfg)
 Difficulty setting: Overthrow recomended, taken from their wiki page. http://wiki.armaoverthrow.com/wiki/How_to_run_a_dedicated_server
 
 I have included batch scripts for using HC's on another computer/server. Write down your #IP in the folder (Starters/Remote HC/HC#.bat)
+
+
+# Alot of kudos to the Overthrow dev team! Much love brederen!
+
+# Bonus
+[Songs to Overthrow to](https://www.youtube.com/playlist?list=PLUrzXEa-EVEfOuskTrGAqQK3UUpoUDgrJ)
+
+[Official Discord](https://discord.gg/w3JDQnX)
